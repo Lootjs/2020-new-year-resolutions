@@ -26,7 +26,7 @@
 - [ ] Grafana
 ## Frameworks, Libs
 - [ ] Symfony 4
-- [ ] ElasticSearch
+- [x] ElasticSearch
 ## Langs
 - [ ] Go
 - [x] Node
