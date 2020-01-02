@@ -36,7 +36,7 @@
 - [ ] Zabbix
 - [x] Sentry
 ## Code standards
-- [ ] php-cs-fixer
+- [x] php-cs-fixer
 - [ ] phpstan
 - [ ] PSR 0-17
 ## Additional
