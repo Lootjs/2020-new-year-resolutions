@@ -31,13 +31,13 @@
 - [ ] Go
 - [x] Node
 ## Debug
-- [x] Xdebug
+- [ ] Xdebug
 - [ ] xhprof
 - [ ] Zabbix
-- [x] Sentry
+- [ ] Sentry
 ## Code standards
 - [x] php-cs-fixer
-- [ ] phpstan
+- [x] phan
 - [ ] PSR 0-17
 ## Additional
 - [ ] CQRS
