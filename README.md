@@ -12,7 +12,7 @@
 - [ ] Swoole
 ## Optimized PHP
 - [ ] Roadrunner
-- [ ] Preload (php 7.4)
+- [x] Preload (php 7.4)
 ## SQL
 - [ ] postgresql
 - [ ] sharding
@@ -20,12 +20,12 @@
 ## CI/CD
 - [x] Docker
 - [ ] Jenkins
-- [ ] Gitlab CI
+- [x] Gitlab CI
 ## Logging
 - [ ] Greylog
 - [ ] Grafana
 ## Frameworks, Libs
-- [ ] Symfony 4
+- [ ] Symfony 5
 - [x] ElasticSearch
 ## Langs
 - [ ] Go
@@ -34,11 +34,11 @@
 - [ ] Xdebug
 - [ ] xhprof
 - [ ] Zabbix
-- [ ] Sentry
+- [x] Sentry
 ## Code standards
 - [x] php-cs-fixer
 - [x] phan
-- [ ] PSR 0-17
+- [x] PSR 0-17
 ## Additional
 - [ ] CQRS
 - [ ] Event souring
