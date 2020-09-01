@@ -22,7 +22,7 @@
 - [ ] Jenkins
 - [x] Gitlab CI
 ## Logging
-- [ ] Greylog
+- [ ] Graylog
 - [ ] Grafana
 ## Frameworks, Libs
 - [ ] Symfony 5
